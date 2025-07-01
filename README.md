@@ -13,3 +13,6 @@ Pie chart: it shows profit contribution % by category.
 
 Objective:
 The primary goal was to enable business stakeholders to make data-driven decisions by providing clear insights into revenue and profitability trends across different dimensions, such as time, region, and product category.
+
+
+The Dataset from this link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
