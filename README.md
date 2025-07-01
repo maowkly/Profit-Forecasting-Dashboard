@@ -1,4 +1,6 @@
 # Profit-Forecasting-Dashboard
+Excel dashboard to review and forecast revenue and profit before opening a business
+
 This project involves the development of an interactive Excel dashboard designed to provide a comprehensive overview of sales performance, revenue generation, and profit forecasting across multiple categories, segments, and time periods.
 
 Time Periods Filtering: users can filter data by year 2014–2017
